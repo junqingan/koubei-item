@@ -1,15 +1,15 @@
 {
     "industry": "SERV_INDUSTRY",
-    "origin_price": 261800,
-    "title": "【女已婚】瑞慈体检 女性关爱套餐 瑞慈全国门店通用 在线预约",
+    "origin_price": 231800,
+    "title": "【HPV23分型全套检查、宫颈TCT、肺部CT、肿瘤标志物7项】瑞慈体检 女性关爱套餐-女已婚",
     "inventory": 99999,
-    "price": 135900,
+    "price": 129900,
     "merchant_pid": "2088701141395825",
     "operator_type": "ISV",
     "category_id": "2020062900466490",
-    "cover": "A*ogXcR7E1y_cAAAAAAAAAAAAADsN1AQ",
-    "picture_details": ["A*D9mVQ47HTd8AAAAAAAAAAAAADsN1AQ", "A*ObkoSrxG3qgAAAAAAAAAAAAADsN1AQ", "A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
-    "taobao_cover": "A*N5MTRo5JELMAAAAAAAAAAAAADsN1AQ",
+    "cover": "A*JD-OS493qlAAAAAAAAAAAAAABKd2AQ",
+    "picture_details": ["A*mOYGSqpihOQAAAAAAAAAAAAABKd2AQ","A*zTIkTJlUT7sAAAAAAAAAAAAABKd2AQ","A*js2ET7EykS8AAAAAAAAAAAAABKd2AQ","A*uYANQ4j9KsEAAAAAAAAAAAAABKd2AQ"],
+    "taobao_cover": "A*ELvrSK6wH7IAAAAAAAAAAAAABKd2AQ",
     "display_channels": "ALL",
     "forbid_reverse": false,
     "test_item": false,
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"650371617551",
-    "request_id": "tong_koubei_2025032537",
+    "request_id": "tong_koubei_202505060037",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-13 00:00:00",
     "verify_enable_times": 1,
@@ -28,15 +28,15 @@
     "service_package_dto": {
         "explanation": null,
         "service_package_name": "【女已婚】瑞慈体检 女性关爱套餐 瑞慈全国门店通用 在线预约",
-        "price": 261800,
+        "price": 231800,
         "service_category_id": "1020210202001001001",
         "has_service_unit": false,
         "package_content_list": [{
-            "title": "女性关爱套餐HPV筛查",
+            "title": "女性关爱套餐【女已婚】",
             "content_group_list": [{
-                "content": "女性关爱套餐HPV筛查【女已婚】",
+                "content": "女性关爱套餐【女已婚】",
                 "num": "1",
-                "price": 261800,
+                "price": 231800,
                 "unit": "份"
             }]
         }],
@@ -50,7 +50,7 @@
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*9m65QKnqPbUAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*8s3SRqCDbZMAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",

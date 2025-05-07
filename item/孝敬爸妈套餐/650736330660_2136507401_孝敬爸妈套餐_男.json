@@ -1,15 +1,15 @@
 {
     "industry": "SERV_INDUSTRY",
-    "origin_price": 106800,
-    "title": "【男】瑞慈体检 孝敬爸妈套餐 瑞慈全国门店通用 在线预约",
+    "origin_price": 71800,
+    "title": "【肿瘤标志物7项、肝胆胰脾双肾彩超、腰椎X光、血压血糖血脂】瑞慈体检 孝敬爸妈套餐-男",
     "inventory": 99999,
-    "price": 48300,
+    "price": 41800,
     "merchant_pid": "2088701141395825",
     "operator_type": "ISV",
     "category_id": "2020062900468228",
-    "cover": "A*tZHzRK_0EmwAAAAAAAAAAAAADsN1AQ",
-    "picture_details": ["A*D9mVQ47HTd8AAAAAAAAAAAAADsN1AQ", "A*ObkoSrxG3qgAAAAAAAAAAAAADsN1AQ", "A*1xu7R5hfJvMAAAAAAAAAAAAADsN1AQ"],
-    "taobao_cover": "A*PDXbQI8nT28AAAAAAAAAAAAADsN1AQ",
+    "cover": "A*Dr-dSbWOxfoAAAAAAAAAAAAABKd2AQ",
+    "picture_details": ["A*mOYGSqpihOQAAAAAAAAAAAAABKd2AQ","A*zTIkTJlUT7sAAAAAAAAAAAAABKd2AQ","A*js2ET7EykS8AAAAAAAAAAAAABKd2AQ","A*uYANQ4j9KsEAAAAAAAAAAAAABKd2AQ"],
+    "taobao_cover": "A*ShDoQ7CN-KEAAAAAAAAAAAAABKd2AQ",
     "display_channels": "ALL",
     "forbid_reverse": false,
     "test_item": false,
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"650736330660",
-    "request_id": "tong_koubei_2025032549",
+    "request_id": "tong_koubei_202505060049",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-13 00:00:00",
     "verify_enable_times": 1,
@@ -28,7 +28,7 @@
     "service_package_dto": {
         "explanation": null,
         "service_package_name": "【男】瑞慈体检 孝敬爸妈套餐 瑞慈全国门店通用 在线预约",
-        "price": 106800,
+        "price": 71800,
         "service_category_id": "1020210202001001001",
         "has_service_unit": false,
         "package_content_list": [{
@@ -36,7 +36,7 @@
             "content_group_list": [{
                 "content": "孝敬爸妈套餐【男】",
                 "num": "1",
-                "price": 106800,
+                "price": 71800,
                 "unit": "份"
             }]
         }],
@@ -50,7 +50,7 @@
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*9m65QKnqPbUAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*8s3SRqCDbZMAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",
