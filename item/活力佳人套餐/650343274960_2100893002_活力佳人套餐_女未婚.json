@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 119300,
-    "title": "【肿瘤标志物7项、颈椎&腰椎X光、乳腺彩超、幽门螺旋杆菌抗体】瑞慈体检 活力悦佳人-女未婚",
+    "title": "【肿瘤7项、颈椎&腰椎X光、乳腺彩超、幽门】活力悦佳人-女未婚",
     "inventory": 99999,
     "price": 65000,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"650343274960",
-    "request_id": "tong_koubei_20250508000062",
+    "request_id": "tong_koubei_20250508100062",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-08 00:00:00",
     "verify_enable_times": 1,

@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 158800,
-    "title": "【升级肺部CT、肿瘤标志物7项、幽门螺旋杆菌、骨密度】瑞慈体检 呵护健康精选A套餐-女已婚",
+    "title": "【升级肺部CT、肿瘤7项、幽门、骨密度】呵护健康精选A套餐-女已婚",
     "inventory": 99999,
     "price": 79900,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"675011978289",
-    "request_id": "tong_koubei_202505080524",
+    "request_id": "tong_koubei_202505081024",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2022-05-17 00:00:00",
     "verify_enable_times": 1,
@@ -51,10 +51,6 @@
         },{
             "content": "",
             "django_id": "A*C9WOTLh1w2QAAAAAAAAAAAAADsN1AQ",
-            "type": "IMAGE"
-        },{
-            "content": "",
-            "django_id": "A*j4wfQLc7_AUAAAAAAAAAAAAADsN1AQ",
             "type": "IMAGE"
         },{
             "content": "",

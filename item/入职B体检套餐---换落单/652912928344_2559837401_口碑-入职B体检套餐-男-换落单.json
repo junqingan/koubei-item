@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 37800,
-    "title": "【入职升级B】血尿常规、血糖血脂、肝肾功能、胸片、腹部彩超-男女通用",
+    "title": "【入职升级B】血尿常规、血糖血脂、肝肾功能、腹部彩超-男女通用",
     "inventory": 99999,
     "price": 22600,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"652912928344",
-    "request_id": "tong_koubei_2025050800023",
+    "request_id": "tong_koubei_202505081023",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-08-20 00:00:00",
     "verify_enable_times": 1,
@@ -46,7 +46,7 @@
             "type": "IMAGE"
         },{
             "content": "",
-            "django_id": "A*FpmyR5EiXtIAAAAAAAAAAAAADsN1AQ",
+            "django_id": "A*AXIyQaRZC0IAAAAAAAAAAAAABKd2AQ",
             "type": "IMAGE"
         },{
             "content": "",

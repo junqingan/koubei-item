@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 76800,
-    "title": "【肿瘤标志物7项、肝胆胰脾双肾彩超、腰椎X光、血压血糖血脂】瑞慈体检 孝敬爸妈套餐-女已婚",
+    "title": "【肿瘤7项、肝胆胰脾双肾、腰椎X光、血糖血脂】孝敬爸妈套餐-女已婚",
     "inventory": 99999,
     "price": 41800,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"651104075356",
-    "request_id": "tong_koubei_202505080050",
+    "request_id": "tong_koubei_202505081050",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-13 00:00:00",
     "verify_enable_times": 1,

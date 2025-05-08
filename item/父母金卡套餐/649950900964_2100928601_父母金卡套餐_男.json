@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 185300,
-    "title": "【升级肺部CT、肿标12项、幽门螺旋呼气、头部经颅多普勒】瑞瑞慈体检 父母金卡套餐-男",
+    "title": "【升级肺部CT、肿标12项、幽门呼气、经颅】瑞父母金卡套餐-男",
     "inventory": 99999,
     "price": 120800,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"649950900964",
-    "request_id": "tong_koubei_202505080010",
+    "request_id": "tong_koubei_202505081010",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-13 00:00:00",
     "verify_enable_times": 1,

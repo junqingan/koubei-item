@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 134800,
-    "title": "【肿瘤标志物7项、经颅多普勒、颈椎&腰椎X光、前列腺彩超】瑞慈体检 男性健康专享套餐",
+    "title": "【肿瘤7项、经颅多普勒、颈椎&腰椎X光、前列腺】男性健康专享套餐",
     "inventory": 99999,
     "price": 82900,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"651888006999",
-    "request_id": "tong_koubei_202505080033",
+    "request_id": "tong_koubei_202505081033",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-28 00:00:00",
     "verify_enable_times": 1,

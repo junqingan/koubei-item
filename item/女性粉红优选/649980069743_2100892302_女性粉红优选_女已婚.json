@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 148800,
-    "title": "【HPV23分型全套检查、宫颈TCT、肿瘤标志物7项、乳腺彩超】瑞慈体检 女性粉红优选套餐-女已婚",
+    "title": "【HPV23分型全套检查、宫颈TCT、肿瘤7项】女性粉红优选套餐-女已婚",
     "inventory": 99999,
     "price": 82900,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"649980069743",
-    "request_id": "tong_koubei_202505080035",
+    "request_id": "tong_koubei_202505081035",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-08 00:00:00",
     "verify_enable_times": 1,

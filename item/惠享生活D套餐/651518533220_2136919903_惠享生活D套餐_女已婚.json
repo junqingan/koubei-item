@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 48800,
-    "title": "【甲胎蛋白-肿标检测、颈椎X光、肝胆脾肾彩超、女性妇科】瑞慈体检 惠享生活D套餐-女已婚",
+    "title": "【肿标检测、颈椎X光、肝胆脾肾彩超、妇科】惠享生活D套餐-女已婚",
     "inventory": 99999,
     "price": 27900,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"651518533220",
-    "request_id": "tong_koubei_20250508002",
+    "request_id": "tong_koubei_20250508102",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2021-07-28 00:00:00",
     "verify_enable_times": 1,

@@ -1,7 +1,7 @@
 {
     "industry": "SERV_INDUSTRY",
     "origin_price": 77800,
-    "title": "【肝功能9项、肿瘤标志物5项、前列腺彩超、内脏彩超】瑞慈体检 健康悦活C套餐-男",
+    "title": "【肝功能9项、肿瘤5项、前列腺彩超、内脏彩超】健康悦活C套餐-男",
     "inventory": 99999,
     "price": 39900,
     "merchant_pid": "2088701141395825",
@@ -19,7 +19,7 @@
     "validity_period_to": "2030-12-31 23:59:59",
     "validity_period_type": "RELATIVE",
     "tb_item_id":"833382486993",
-    "request_id": "tong_koubei_202505080087",
+    "request_id": "tong_koubei_202505081087",
     "sales_period_end": "2030-12-31 23:59:59",
     "sales_period_start": "2024-09-11 00:00:00",
     "verify_enable_times": 1,
